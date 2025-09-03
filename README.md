@@ -116,4 +116,3 @@ This project is licensed under the **MIT License**.
 <p align="center">
   <em>ModuMuse: Where vision meets language.</em>
 </p>
-```
